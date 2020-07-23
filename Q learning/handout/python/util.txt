@@ -1,0 +1,3 @@
+python q_learning.py raw weight.out returns.out 2000 200 0.05 0.999 0.001
+
+tar -cvf rl.tar q_learning.py python3.txt
